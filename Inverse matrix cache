@@ -1,8 +1,7 @@
 	makeCacheMatrix <- function(x = matrix()) {
 		  print(x)
 			set <- function(y=matrix()) {
-			if(all.equal(z,y)==0){message("second")} else{message("third")
-			print(y)
+			
 					z <<- y
 				   m<<-NULL}
 			}
